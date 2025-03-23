@@ -5,7 +5,7 @@ game 'gta5'
 
 name 'bl_hauling'
 author 'Bravenorth'
-version '1.0.0'
+version '0.0.1'
 repository 'https://github.com/bravenorth/bl_hauling'
 description 'Hauling system for FiveM with ox_core'
 
